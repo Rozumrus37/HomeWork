@@ -7,21 +7,21 @@ public static void Main()
 Begin30();
 }
 static void Begin4() {
-int d = 5;
-double L = Math.PI * d;
-Console.WriteLine(L);
+   int d = 5;
+   double L = Math.PI * d;
+   Console.WriteLine(L);
 }
 static void Begin5() {
-int a = 5;
-int V  = a*a*a;
-int S = a*a*6;
-Console.WriteLine(V + " " + S);
+   int a = 5;
+   int V  = a*a*a;
+   int S = a*a*6;
+   Console.WriteLine(V + " " + S);
 }
 static void Begin6() {
-int a = 1, b = 2, c = 3;
-int V = a*b*c;
-int S = 2*(a*b + a*c+b*c);
-Console.WriteLine(V + " " + S);
+   int a = 1, b = 2, c = 3;
+   int V = a*b*c;
+   int S = 2*(a*b + a*c+b*c);
+   Console.WriteLine(V + " " + S);
 }
 static void Begin7() {
 int R = 2;
